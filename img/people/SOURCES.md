@@ -25,6 +25,7 @@ Photos taken from each person's own website or institutional profile, cropped to
 | ulises-pereira.jpg | image search thumbnail (provided by the organizers) |
 | lea-duncker.jpg | image search thumbnail (provided by the organizers) |
 | andrew-saxe.jpg | saxelab.org/people |
+| tatiana-engel.jpg | collaborate.princeton.edu (Princeton research profile) |
 | jonathan-pillow.jpg | collaborate.princeton.edu (Princeton research profile) |
 | claudia-clopath.jpg | imperial.ac.uk/people/c.clopath |
 | remi-monasson.jpg | phys.ens.psl.eu/~monasson |
