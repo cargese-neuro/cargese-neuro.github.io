@@ -19,6 +19,6 @@ python3 build.py
 
 Add a square JPEG (about 400×400 px) for each person at `img/people/<slug>.jpg`, where the slug is the name in lowercase with hyphens and no accents, for example `img/people/pedro-goncalves.jpg`. People without a photo are shown with their initials. Ask each speaker for a photo they are happy to have published.
 
-## Publishing with GitHub Pages
+## Publishing
 
-In the repository settings on GitHub, open **Pages**, set the source to **Deploy from a branch**, choose `main` and the root folder, and save. The site will be available at `https://jmourabarbosa.github.io/cargese-neuro29/`.
+The site is served by GitHub Pages from the `main` branch of this repository at https://cargese-neuro.github.io/. Every push to `main` is published automatically within a minute or two.
